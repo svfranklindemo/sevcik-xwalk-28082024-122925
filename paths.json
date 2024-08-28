@@ -1,8 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/sevcik/sevcik-2024-8-28-14-28-50/:/",
+    "/content/sevcik/sevcik-2024-8-28-14-28-50/metadata.json:/metadata.json",
+    "/content/sevcik/sevcik-2024-8-28-14-28-50/redirects.json:/redirects.json"
   ]
 }
